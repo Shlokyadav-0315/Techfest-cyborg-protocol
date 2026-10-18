@@ -15,8 +15,9 @@ One page covers four design briefs at once:
 
 ## Live demo
 
-- Website: `https://<your-username>.github.io/<repo-name>/`
-- Demo recording: `<add your Google Drive link here>`
+- Website: https://cyborgx.netlify.app/
+- ![preview](<img width="944" height="432" alt="image" src="https://github.com/user-attachments/assets/a085106e-8a09-4460-89f9-5d711d240aa3" />
+)
 
 ## Features
 
