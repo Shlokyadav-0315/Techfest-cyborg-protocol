@@ -16,8 +16,8 @@ One page covers four design briefs at once:
 ## Live demo
 
 - Website: https://cyborgx.netlify.app/
-- (<img width="944" height="432" alt="image" src="https://github.com/user-attachments/assets/a085106e-8a09-4460-89f9-5d711d240aa3" />
-)
+- <img width="944" height="432" alt="image" src="https://github.com/user-attachments/assets/a085106e-8a09-4460-89f9-5d711d240aa3" />
+
 
 ## Features
 
